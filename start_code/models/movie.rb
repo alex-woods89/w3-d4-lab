@@ -35,8 +35,8 @@ def stars
   return stars_data.map {|star_data| Star.new(star_data) }
 end
 
-def casting_expenses
-   @budget - @fee
-end
+# def casting_expenses
+#    fee = ""
+# end
 
 end

@@ -24,5 +24,7 @@ casting1.save
 casting2.save
 casting3.save
 
+
+
 binding.pry
 nil
